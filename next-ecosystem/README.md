@@ -46,4 +46,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - **ORM** [Drizzle ORM[8]](https://orm.drizzle.team/)
 
 ### 参考资料
-[reference]: (https://mp.weixin.qq.com/s/ubJsP0MWbNKtzox3AYZhag)
+[reference:](https://mp.weixin.qq.com/s/ubJsP0MWbNKtzox3AYZhag)
