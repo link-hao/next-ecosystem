@@ -36,14 +36,14 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ## Tech skills
-- [框架] Next.js[1] (App Router) (https://nextjs.org/)
-- [平台] Cloudflare Pages[2] (https://pages.cloudflare.com/)
-- [数据库] Cloudflare D1[3] (SQLite) (https://developers.cloudflare.com/d1/)
-- [认证] NextAuth[4] 配合 GitHub 登录 (https://authjs.dev/getting-started/installation?framework=Next.js)
-- [样式] Tailwind CSS[5] (https://tailwindcss.com/)
-- [UI组件] 基于 Radix UI[6] 的自定义组件 (https://www.radix-ui.com/)
-- [类型安全] TypeScript[7] (https://www.typescriptlang.org/)
-- [ORM] Drizzle ORM[8] (https://orm.drizzle.team/)
+- **框架** [[Next.js[1] (App Router)]](https://nextjs.org/)
+- **平台** [Cloudflare Pages[2]](https://pages.cloudflare.com/)
+- **数据库** [Cloudflare D1[3] (SQLite)](https://developers.cloudflare.com/d1/)
+- **认证** [NextAuth[4] 配合GitHub 登录](https://authjs.dev/getting-started/installation?framework=Next.js)
+- **样式** [Tailwind CSS[5]](https://tailwindcss.com/)
+- **UI组件** [基于Radix UI[6]的自定义组件](https://www.radix-ui.com/)
+- **类型安全** [TypeScript[7]](https://www.typescriptlang.org/)
+- **ORM** [Drizzle ORM[8]](https://orm.drizzle.team/)
 
 ### 参考资料
 [reference]: (https://mp.weixin.qq.com/s/ubJsP0MWbNKtzox3AYZhag)
