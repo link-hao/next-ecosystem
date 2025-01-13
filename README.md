@@ -36,6 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ## Tech skills
+
 - **框架** [[Next.js[1] (App Router)]](https://nextjs.org/)
 - **平台** [Cloudflare Pages[2]](https://pages.cloudflare.com/)
 - **数据库** [Cloudflare D1[3] (SQLite)](https://developers.cloudflare.com/d1/)[GraphQL](https://graphql.org/)
@@ -46,5 +47,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - **ORM** [Drizzle ORM[8]](https://orm.drizzle.team/)
 
 ### 参考资料
-[Reference](https://mp.weixin.qq.com/s/ubJsP0MWbNKtzox3AYZhag)
-[How To GraphQL](https://www.howtographql.com/)
+
++ [Reference](https://mp.weixin.qq.com/s/ubJsP0MWbNKtzox3AYZhag)
++ [How To GraphQL](https://www.howtographql.com/)
