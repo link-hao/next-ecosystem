@@ -35,6 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+## Deploy on Cloudflare Pages
+- [How to deploy Next.js on Cloudflare Pages](https://linkyun916.yuque.com/tlrwrf/nmnxyv/dv2kw3qu519ws6gb?singleDoc#)
+
 ## Tech skills
 
 - **框架** [[Next.js[1] (App Router)]](https://nextjs.org/)
